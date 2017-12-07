@@ -17,9 +17,13 @@ h2 {
   font-weight: 300;
 }
 
-#download-link {
+.download-link {
   color: aquamarine;
   font-size: 16px;
   text-align: center;
 }
 
+#personal-guide p{
+  color: gray;
+  font-size: 21px;
+}
