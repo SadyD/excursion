@@ -2,15 +2,19 @@ html {
   background-color: black;
   font-family: Verdana, "sans-serif";
   text-align: center;
+  color: white;
   
 }
 
 h1 {
-  color: white;
   font-size: 50px;
   font-weight: normal;
   text-align: center;
-  
+}
+
+h2 {
+  font-size: 42px;
+  font-weight: 300;
 }
 
 #download-link {
@@ -18,3 +22,4 @@ h1 {
   font-size: 16px;
   text-align: center;
 }
+
